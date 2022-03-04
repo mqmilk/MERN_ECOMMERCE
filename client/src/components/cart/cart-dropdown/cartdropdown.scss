@@ -1,0 +1,16 @@
+.cart-dropdown {
+    position: absolute;
+    width: 300px;
+    height: 380px;
+    top: 80px;
+    right: 20px;
+    z-index: 5;
+    overflow: scroll;
+  
+    .cart-items {
+      height: 180px;
+      overflow: scroll;
+    }
+
+  }
+  
