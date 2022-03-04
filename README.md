@@ -1,4 +1,5 @@
 # MERN_ECOMMERCE
+![image](https://user-images.githubusercontent.com/50921277/156846047-4ef68965-0375-4688-acca-4bae3e68c645.png)
 
 ## Technologies:
 - MongoDB & Mongoose for the database
