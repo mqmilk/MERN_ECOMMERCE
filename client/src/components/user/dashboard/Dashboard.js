@@ -24,16 +24,16 @@ const Dashboard = () => {
                     <div>
                         <h4>Email</h4>
                         <p>{currentUser.email}</p>
-                        <h4>token</h4>
+                        
                         
                     </div>  
-                    <Link to='/' >Edit</Link>              
+                                 
                 </Col>
                 <Col xs={8} lg={4}  className='d-flex flex-column align-items-center justify-content-center border m-2 px-5 py-2'>                        
                         <div>
                         <h4>Password</h4>
                         <p>********</p>
-                        <Link to="/">Change Password</Link>
+                        
                     </div>             
                 </Col>
                 
