@@ -2,10 +2,10 @@
 ![image](https://user-images.githubusercontent.com/50921277/156846047-4ef68965-0375-4688-acca-4bae3e68c645.png)
 
 ## Technologies:
-- MongoDB & Mongoose for the database
+- MongoDB for the database and Mongoose to model application data
 - Node for the backend environment
 - Express for the requests, routes, and middlewares
-- React for the frontend 
+- React for the frontend setup
 - Bootstrap5 for the responsive design styles
 - Passport and JWT for authentication
 
