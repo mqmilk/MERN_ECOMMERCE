@@ -5,7 +5,7 @@
 - MongoDB for the database and Mongoose to model application data
 - Node for the backend environment
 - Express for the requests, routes, and middlewares
-- React for the frontend setup
+- React for the frontend setup(React hooks, React Context, and React routes)
 - Bootstrap5 for the responsive design styles
 - Passport and JWT for authentication
 
